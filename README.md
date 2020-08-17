@@ -1,7 +1,4 @@
-# Data-Visualization-with-Python
-### Coursera-Project
-
-These course materials belong entirely to Coursera. The answers are the only things that show my trials.
+# Data Visualization with Python
 
 
 Key Concepts:
@@ -13,4 +10,3 @@ Key Concepts:
 5) Create a heatmap to show correlations and distributions.
 
 
-Great thanks to the course instructor: Dave Dalsveen
